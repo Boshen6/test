@@ -8,8 +8,8 @@ table(f1)
 
 A
 
-<<<<<<< HEAD
+
 B
-=======
+
 C
->>>>>>> origin/master
+
